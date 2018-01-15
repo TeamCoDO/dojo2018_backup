@@ -1,5 +1,7 @@
 # dojo2018
 Liebe Schwestern und Brüder im Geiste der Kampfkunst, 
+
+
 Jahresziel für Coding Dojo ist  Übung in TDD und Sensibilisierung der  Clean Code Prinzipien. 
 Zudem „erfrischen“ wir allgemeinen Java Themen, wie z.B. Logging, Refactoring, Integrationstests, Validierung, Threading usw.
 
